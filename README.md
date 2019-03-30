@@ -1,4 +1,4 @@
 # hello-world
 My very first repository on Github <br>
-I'm striding out into the brave new world of Git
+I'm striding out into the brave new world of Git <br>
 Here's another line I've added in March 2019
